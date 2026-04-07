@@ -1,6 +1,6 @@
 # GrokOut 오류 제보 안내
 
-GrokOut 사용에 불편을 드려 죄송합니다. 아래 사항을 기재하여 Issue를 올려주세요.
+GrokOut 사용에 불편을 드려 죄송합니다. 아래 사항을 기재하여 Issue를 올려주세요. [(Issue 업로드)](https://github.com/ArdanKR/grokout_bug_report/issues/new)
 
 1. 어느 부분에서 에러가 발생하는지
 2. 에러가 어떤 형식으로 발생하는지
